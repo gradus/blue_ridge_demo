@@ -1,1 +1,5 @@
-// Use this file to require common dependencies or to setup useful test functions.
+Screw.Unit(function() {
+  before(function() {
+    $('#something').html('');
+  });
+});

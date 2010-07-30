@@ -1,4 +1,5 @@
-$(document).ready(function() {
+function do_something() {
+  // $('#something').html('something')
+}
 
-});
 
